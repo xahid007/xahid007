@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Hasan</h1>
-<h3 align="center">A Passionate Data Science Enthusiast and Quantum Machine Learning Researcher</h3>
+<h3 align="center">A Passionate Computer Vision and Quantum Machine Learning Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xahid007&label=Profile%20views&color=0e75b6&style=flat" alt="xahid007" /> </p>
 
@@ -47,8 +47,7 @@
 - Quantum Machine Learning<br>
 - Quantum Computing<br>
 - Machine Learning and AI<br>
-- Data Science and Analytics<br>
-- Neural Networks and Deep Learning<br>
+- Computer Vision<br>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
